@@ -3,8 +3,7 @@ Use the regression model to analyze the number of active physicians in a given a
 
 
 ---
-title: "STAT 425: Case Study"
-author: "Afnan Dzaharudin (afnanfd2), Linfeng Wang(linfeng7)"
+author: "Afnan Dzaharudin, Linfeng Wang"
 date: "2022-10-10"
 output:
   pdf_document:
