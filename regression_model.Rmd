@@ -1,6 +1,6 @@
 ---
-title: "STAT 425: Case Study"
-author: "Afnan Dzaharudin (afnanfd2), Linfeng Wang(linfeng7)"
+title: "Regression Model Analysis"
+author: "Afnan Dzaharudin, Linfeng Wang"
 date: "2022-10-10"
 output:
   pdf_document:
